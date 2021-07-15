@@ -1,0 +1,6 @@
+C:\Users\Jaqueline Andrade\source\repos\PlugIn2\PlugIn2\bin\Debug\PlugIn2.dll
+C:\Users\Jaqueline Andrade\source\repos\PlugIn2\PlugIn2\bin\Debug\PlugIn2.pdb
+C:\Users\Jaqueline Andrade\source\repos\PlugIn2\PlugIn2\obj\Debug\PlugIn2.csproj.AssemblyReference.cache
+C:\Users\Jaqueline Andrade\source\repos\PlugIn2\PlugIn2\obj\Debug\PlugIn2.csproj.CoreCompileInputs.cache
+C:\Users\Jaqueline Andrade\source\repos\PlugIn2\PlugIn2\obj\Debug\PlugIn2.dll
+C:\Users\Jaqueline Andrade\source\repos\PlugIn2\PlugIn2\obj\Debug\PlugIn2.pdb
